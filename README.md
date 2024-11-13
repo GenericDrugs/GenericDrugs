@@ -4,7 +4,8 @@
   - 💼 Current Role: Software Developer, specializing in Backend Development
   - 🌱 Currently Learning: GoLang  
   - 😄 Pronouns: He/Him  
-  - 📫 How to reach me: **Discord:** [Generic](https://discord.com/users/187105028513857536)  
+  - 📫 How to reach me:
+    - **Discord:** [Generic](https://discord.com/users/187105028513857536)  
 
 
 <!--
