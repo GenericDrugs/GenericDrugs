@@ -3,6 +3,7 @@
 
   - 😄 Pronouns: He/Him  
   - 🌱 I’m currently learning GoLang
+  - 📫 How to reach me: [Discord](https://discord.com/users/187105028513857536)
 
 <!--
 **GenericDrugs/GenericDrugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
