@@ -5,6 +5,8 @@
   - 🌱 Currently Learning: GoLang  
   - 😄 Pronouns: He/Him  
   - 📫 How to reach me:
+    - **Email:** [hugomdias.st@gmail.com](mailto:hugomdias.st@gmail.com)
+    - **Github:** [GenericDrugs](https://github.com/GenericDrugs)
     - **Discord:** [Generic](https://discord.com/users/187105028513857536)  
 
 
